@@ -7,6 +7,7 @@ Public Class Authentification
 
     <DllImport("kernel32.dll", EntryPoint:="GetPrivateProfileStringA", CharSet:=CharSet.Ansi, SetLastError:=True, ExactSpelling:=True)>
     Private Shared Function GetPrivateProfileString(ByVal lpApplicationName As String, ByVal lpKeyName As String, ByVal lpDefault As String, ByVal lpReturnedString As StringBuilder, ByVal nSize As Integer, ByVal lpFileName As String) As Integer
+
     End Function
 
     Public Function GetIniValue(ByVal section As String, ByVal key As String, ByVal path As String) As String
@@ -17,8 +18,27 @@ Public Class Authentification
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles btn_auth.Click
 
+        Dim password As String
+
+        Dim Liste() As String
+        Liste = System.IO.File.ReadAllLines("C:\wamp64\www\TESTAP7\include\conf.ini")
+        For Each Ligne In Liste
+            If Ligne.Contains("=") Then
+                Ligne = Ligne.Replace(" ", "")
+                Dim Texte As String = Split(Ligne, "=")(0)
+                Dim Valeur As String = Split(Ligne, "=")(1)
+
+                If Texte = "auth_app" Then
+                    password = Valeur
+                End If
+
+                'MessageBox.Show("Le texte : " & Texte & Environment.NewLine & "Le chiffre : " & Valeur)
+            End If
+        Next
+
+
         'Vérifier les informations de connexion ici (par exemple en comparant avec une base de données)
-        If tb_auth.Text = "auth_app=" & GetIniValue("auth_app", "auth_app", "C:\wamp64\www\TESTAP7\include\conf.ini") Then
+        If tb_auth.Text = password Then
 
             'Ouvrir le formulaire principal de l'application
 
