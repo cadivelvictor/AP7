@@ -1,0 +1,24 @@
+c:\users\valia\documents\visual studio 2013\Projects\GSB-Admin\GSB-Admin\bin\Debug\GSB-Admin.exe.config
+c:\users\valia\documents\visual studio 2013\Projects\GSB-Admin\GSB-Admin\bin\Debug\GSB-Admin.exe
+c:\users\valia\documents\visual studio 2013\Projects\GSB-Admin\GSB-Admin\bin\Debug\GSB-Admin.pdb
+c:\users\valia\documents\visual studio 2013\Projects\GSB-Admin\GSB-Admin\bin\Debug\GSB-Admin.xml
+c:\users\valia\documents\visual studio 2013\Projects\GSB-Admin\GSB-Admin\obj\Debug\GSB-Admin.vbprojResolveAssemblyReference.cache
+c:\users\valia\documents\visual studio 2013\Projects\GSB-Admin\GSB-Admin\obj\Debug\GSB_Admin.frm_gsb_admin.resources
+c:\users\valia\documents\visual studio 2013\Projects\GSB-Admin\GSB-Admin\obj\Debug\GSB_Admin.Resources.resources
+c:\users\valia\documents\visual studio 2013\Projects\GSB-Admin\GSB-Admin\obj\Debug\GSB-Admin.vbproj.GenerateResource.Cache
+c:\users\valia\documents\visual studio 2013\Projects\GSB-Admin\GSB-Admin\obj\Debug\GSB-Admin.exe
+c:\users\valia\documents\visual studio 2013\Projects\GSB-Admin\GSB-Admin\obj\Debug\GSB-Admin.xml
+c:\users\valia\documents\visual studio 2013\Projects\GSB-Admin\GSB-Admin\obj\Debug\GSB-Admin.pdb
+F:\ANNEE 2\Atelier de professionnalisation\AP7\Client lourd\GSB-Admin\GSB-Admin\bin\Debug\GSB-Admin.exe.config
+F:\ANNEE 2\Atelier de professionnalisation\AP7\Client lourd\GSB-Admin\GSB-Admin\obj\Debug\GSB-Admin.exe
+F:\ANNEE 2\Atelier de professionnalisation\AP7\Client lourd\GSB-Admin\GSB-Admin\obj\Debug\GSB-Admin.xml
+F:\ANNEE 2\Atelier de professionnalisation\AP7\Client lourd\GSB-Admin\GSB-Admin\obj\Debug\GSB-Admin.pdb
+E:\ANNEE 2\Atelier de professionnalisation\AP7\Client lourd\GSB-Admin\GSB-Admin\obj\Debug\GSB-Admin.vbproj.AssemblyReference.cache
+E:\ANNEE 2\Atelier de professionnalisation\AP7\Client lourd\GSB-Admin\GSB-Admin\obj\Debug\GSB_Admin.Authentification.resources
+E:\ANNEE 2\Atelier de professionnalisation\AP7\Client lourd\GSB-Admin\GSB-Admin\obj\Debug\GSB_Admin.frm_gsb_admin.resources
+E:\ANNEE 2\Atelier de professionnalisation\AP7\Client lourd\GSB-Admin\GSB-Admin\obj\Debug\GSB_Admin.Resources.resources
+E:\ANNEE 2\Atelier de professionnalisation\AP7\Client lourd\GSB-Admin\GSB-Admin\obj\Debug\GSB-Admin.vbproj.GenerateResource.cache
+E:\ANNEE 2\Atelier de professionnalisation\AP7\Client lourd\GSB-Admin\GSB-Admin\obj\Debug\GSB-Admin.vbproj.CoreCompileInputs.cache
+E:\ANNEE 2\Atelier de professionnalisation\AP7\Client lourd\GSB-Admin\GSB-Admin\obj\Debug\GSB-Admin.exe
+E:\ANNEE 2\Atelier de professionnalisation\AP7\Client lourd\GSB-Admin\GSB-Admin\obj\Debug\GSB-Admin.xml
+E:\ANNEE 2\Atelier de professionnalisation\AP7\Client lourd\GSB-Admin\GSB-Admin\obj\Debug\GSB-Admin.pdb
