@@ -46,11 +46,11 @@ Public Class Authentification
 
             'Fermer le formulaire d'authentification
 
-            Me.Close()
+            Me.Hide()
 
         Else
             'Afficher un message d'erreur et demander à l'utilisateur de saisir à nouveau ses informations de connexion
-            MessageBox.Show("Nom d'utilisateur ou mot de passe incorrect. Veuillesz réessayer.", "Erreur d'authentification", MessageBoxButtons.OK, MessageBoxIcon.Error)
+            MessageBox.Show("Nom d'utilisateur ou mot de passe incorrect. Veuillez réessayer.", "Erreur d'authentification", MessageBoxButtons.OK, MessageBoxIcon.Error)
             tb_auth.Text = ""
         End If
 
